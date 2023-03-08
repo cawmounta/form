@@ -1,0 +1,41 @@
+
+body{
+    background-image: url(/image.jpg);
+    background-color: azure;
+
+}
+
+.container{
+    display: flex;
+    padding: 10px;
+} 
+
+.form{
+    padding: 10%;
+    background-image: url("image.jpg");
+    background-color: beige;
+    text-align: center;
+    margin: 5%;
+    
+}
+
+.form1{
+    padding: 10%;
+    background-color: antiquewhite;
+    text-align: center;
+    margin: 5%;
+}
+.h1{
+    background-color: rgb(249, 8, 10);
+
+}
+  .button {
+    border: none;
+    text-align: center;
+    font-size: 35px;
+    background-color: rgb(249, 8, 10);
+
+  }
+  .h{
+    background-color: wheat;
+  }
